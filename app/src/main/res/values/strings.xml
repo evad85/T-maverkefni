@@ -2,7 +2,8 @@
 <resources>
 
     <string name="app_name">Timaverkefni</string>
-    <string name="hello_world">Eva Dögg!</string>
+    <string name="hello_world">Eva Dögg! og Dagný Ósk Ragnarsdóttir</string>
+    <string name="hello_world">Eva Dögg! og Dagný Ósk Ragnarsdóttir</string>
     <string name="action_settings">Settings</string>
 
 </resources>
